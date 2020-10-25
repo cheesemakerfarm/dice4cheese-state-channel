@@ -1,6 +1,6 @@
-# dicether state-channel utils
+# Dice4Cheese state-channel utils
 
 # Installation
 ```
-    npm install @dicether/state-channel --save
+    npm install @dice4cheese/state-channel --save
 ```
